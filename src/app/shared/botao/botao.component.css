@@ -1,0 +1,13 @@
+.btn {
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: #8C3612;
+    color: white;
+}
+
+.outlined {
+    background-color: transparent;
+    border: solid #8C3612 1px;
+    color: #8C3612;
+}
